@@ -15,11 +15,6 @@ Auteur : \E
 Origine : [Rituel du boutisme](https://hackropole.fr/fr/challenges/forensics/fcsc2021-forensics-rituel-du-boutisme/)
 
 
-## Connectez vous 
-> http://localhost
-
-
-
 -----------
 
 ## Installation manuel
